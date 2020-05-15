@@ -25,7 +25,7 @@ TF-IDF向量化：
 
 ### 2. CBOW前向与反向传播推导过程
 
-<img src="D:\learn\project_work\TF-IDF\arc.png" style="zoom:67%;" />
+<img src="arc.png" style="zoom:67%;" />
 
 #### 2.1 前向传播  
 
